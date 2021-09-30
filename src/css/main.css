@@ -842,7 +842,7 @@ select {
 
 .services__item {
   background-color: var(--PrimaryColor-Light);
-  padding: 20px;
+  padding: 20px 20px 40px 20px;
   margin: 20px 0px;
   border-radius: 5px;
   height: 100%;
