@@ -8,7 +8,7 @@
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/coinbase.html"
         },
         {
             "img_src": "./src/img/portfolio/email/kayak.png",
@@ -18,7 +18,7 @@
             "title_tag": "Foundation",
             "description": "Desarrollado con el Framework FOUNDATION y todas sus herramientas.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/kayak-foundation.html"
         },
         {
             "img_src": "./src/img/portfolio/email/moderdog.png",
@@ -27,7 +27,7 @@
             "title": "Modern dog",
             "title_tag": "MJML",
             "description": "Desarrollado con el Framework MJML y todas sus herramientas.",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/NEWSLETTER/Newsletter-mjml/Template_01/template.html"
         },
         {
             "img_src": "./src/img/portfolio/email/zalando.png",
@@ -37,7 +37,7 @@
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/Transactional/transactional.html"
         },
         {
             "img_src": "./src/img/portfolio/email/shein.png",
@@ -47,7 +47,7 @@
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/miProyectoSHEIN/shein.html"
         },
         {
             "img_src": "./src/img/portfolio/email/factory.png",
@@ -57,7 +57,7 @@
             "title_tag": "MJML",
             "description": "Desarrollado con el Framework MJML y todas sus herramientas.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/factorydirect-mjml.html"
         },
         {
             "img_src": "./src/img/portfolio/email/homage.png",
@@ -67,7 +67,7 @@
             "title_tag": "Foundation",
             "description": "Desarrollado con el Framework FOUNDATION y todas sus herramientas.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/homage-foundation/index.html"
         },
         {
             "img_src": "./src/img/portfolio/email/beretun.png",
@@ -77,7 +77,7 @@
             "title_tag": "MJML",
             "description": "Desarrollado con el Framework MJML y todas sus herramientas.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/Order-mjml/Template_01/index.html"
         },
         {
             "img_src": "./src/img/portfolio/email/hero.png",
@@ -87,7 +87,7 @@
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/hero.html"
         },
         {
             "img_src": "./src/img/portfolio/email/platzi.png",
@@ -97,7 +97,7 @@
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/email-projects/NEWSLETTER/newsletter1/newsletter1.html"
         }
     ],
     "website": [
