@@ -1,6 +1,6 @@
 
 // INITIALIZE EMAILJS
-emailjs.init("user_xCVtR0kVRBTp3Yt9aeQ1x");
+emailjs.init("user_Sd0DzExIpd6YQLIjSh7dK");
 
 // SELECTOR FOR CONTACT FORM
 const contactForm = document.querySelector('#contactForm');
@@ -14,7 +14,7 @@ contactForm.addEventListener('submit', (event) => {
     alertify.message('Enviando mensaje..');
 
     // SEND EMAIL
-    emailjs.sendForm('service_oe338v5', 'template_z3o5x08', '#contactForm')
+    emailjs.sendForm('service_yqsyeaq', 'template_0rdfhlh', '#contactForm')
     .then(() => {
 
         // ALERT
