@@ -1,7 +1,7 @@
 {
     "email": [
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/coinbase.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Transactional",
             "title": "Coinbase",
@@ -11,7 +11,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/kayak.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Promotional",
             "title": "Kayak",
@@ -21,7 +21,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/moderdog.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Newsletter",
             "title": "Modern dog",
@@ -30,7 +30,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/zalando.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Transactional",
             "title": "Zalando-store",
@@ -40,7 +40,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/shein.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Promotional",
             "title": "Shein",
@@ -50,7 +50,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/factory.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Promotional",
             "title": "Factory direct",
@@ -60,7 +60,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/homage.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Promotional",
             "title": "Homage",
@@ -70,7 +70,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/beretun.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Transactional",
             "title": "Beretun",
@@ -80,7 +80,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/hero.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Promotional",
             "title": "Apple",
@@ -90,7 +90,7 @@
             "project_href": "#"
         },
         {
-            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_src": "./src/img/portfolio/email/platzi.png",
             "img_alt": "Proyecto de email",
             "img_tag": "Newsletter",
             "title": "Platzi",
