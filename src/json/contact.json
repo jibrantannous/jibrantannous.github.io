@@ -2,16 +2,16 @@
     {
         "icon_class": "ri-twitter-fill",
         "icon_name": "Twitter",
-        "icon_href": "#"
+        "icon_href": "https://twitter.com/Jibran_tannous"
     },
     {
         "icon_class": "ri-github-fill",
         "icon_name": "Github",
-        "icon_href": "#"
+        "icon_href": "https://github.com/jibrantannous"
     },
     {
         "icon_class": "ri-linkedin-box-fill",
         "icon_name": "Linkedin",
-        "icon_href": "#"
+        "icon_href": "https://www.linkedin.com/in/jibran-antonio-tannous-puerta-909555158/"
     }
 ]
