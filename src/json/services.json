@@ -1,21 +1,21 @@
 [
     {
         "title": "E-mail Development",
-        "description": "Desarrollo de Emails para cualquier tipo de campaña, ya sea Transaccional, Promocional o Newsletter.",
+        "description": "Desarrollo de Emails para campañas Transaccionales, Promocionales o Newsletter.",
         "button_txt": "Ver más",
         "button_href": "#",
         "button_target": "_blank"
     },
     {
         "title": "Maquetación Web",
-        "description": "Maquetación de sitios web estáticos con HTML y CSS",
+        "description": "Maquetación de sitios web estáticos con HTML y CSS.",
         "button_txt": "Ver más",
         "button_href": "#",
         "button_target": "_blank"
     },
     {
         "title": "Desarrollo Web",
-        "description": "Construcción de sitios y aplicaciones web dinámicas",
+        "description": "Construcción de sitios y aplicaciones web dinámicas.",
         "button_txt": "Ver más",
         "button_href": "#",
         "button_target": "_blank"
