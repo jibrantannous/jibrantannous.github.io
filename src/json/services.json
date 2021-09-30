@@ -1,0 +1,30 @@
+[
+    {
+        "title": "E-mail Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "button_txt": "Ver más",
+        "button_href": "#",
+        "button_target": "_blank"
+    },
+    {
+        "title": "E-mail Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "button_txt": "Ver más",
+        "button_href": "#",
+        "button_target": "_blank"
+    },
+    {
+        "title": "E-mail Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "button_txt": "Ver más",
+        "button_href": "#",
+        "button_target": "_blank"
+    },
+    {
+        "title": "E-mail Developer",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "button_txt": "Ver más",
+        "button_href": "#",
+        "button_target": "_blank"
+    }
+]

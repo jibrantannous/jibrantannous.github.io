@@ -1,0 +1,86 @@
+{
+    "email": [
+        {
+            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_alt": "Proyecto de email",
+            "img_tag": "Plantilla",
+            "title": "Titulo del proyecto",
+            "title_tag": "HTML & CSS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver E-mail",
+            "project_href": "#"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_alt": "Proyecto de email",
+            "img_tag": "Plantilla",
+            "title": "Titulo del proyecto",
+            "title_tag": "HTML & CSS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver E-mail",
+            "project_href": "#"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_alt": "Proyecto de email",
+            "img_tag": "Plantilla",
+            "title": "Titulo del proyecto",
+            "title_tag": "HTML & CSS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver E-mail",
+            "project_href": "#"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/email-01.png",
+            "img_alt": "Proyecto de email",
+            "img_tag": "Plantilla",
+            "title": "Titulo del proyecto",
+            "title_tag": "HTML & CSS",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver E-mail",
+            "project_href": "#"
+        }
+    ],
+    "website": [
+        {
+            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "Tienda digital",
+            "title": "Titulo del proyecto",
+            "title_tag": "Wordpress",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver página web",
+            "project_href": "#"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "Tienda digital",
+            "title": "Titulo del proyecto",
+            "title_tag": "Wordpress",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver página web",
+            "project_href": "#"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "Tienda digital",
+            "title": "Titulo del proyecto",
+            "title_tag": "Wordpress",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver página web",
+            "project_href": "#"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "Tienda digital",
+            "title": "Titulo del proyecto",
+            "title_tag": "Wordpress",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "button_txt": "Ver página web",
+            "project_href": "#"
+        }
+    ]
+}

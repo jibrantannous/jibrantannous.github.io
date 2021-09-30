@@ -1,0 +1,17 @@
+[
+    {
+        "icon_class": "ri-twitter-fill",
+        "icon_name": "Twitter",
+        "icon_href": "#"
+    },
+    {
+        "icon_class": "ri-github-fill",
+        "icon_name": "Github",
+        "icon_href": "#"
+    },
+    {
+        "icon_class": "ri-linkedin-box-fill",
+        "icon_name": "Linkedin",
+        "icon_href": "#"
+    }
+]
