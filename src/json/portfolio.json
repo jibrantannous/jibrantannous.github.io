@@ -1,14 +1,14 @@
 {
     "email": [
         {
-            "img_src": "./src/img/portfolio/email/coinbase.png",
+            "img_src": "./src/img/portfolio/email/shein.png",
             "img_alt": "Proyecto de email",
-            "img_tag": "Transactional",
-            "title": "Coinbase",
+            "img_tag": "Promotional",
+            "title": "Shein",
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/coinbase.html"
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/miProyectoSHEIN/shein.html"
         },
         {
             "img_src": "./src/img/portfolio/email/kayak.png",
@@ -27,6 +27,7 @@
             "title": "Modern dog",
             "title_tag": "MJML",
             "description": "Desarrollado con el Framework MJML y todas sus herramientas.",
+            "button_txt": "Ver E-mail",
             "project_href": "https://jibrantannous.github.io/email-projects/NEWSLETTER/Newsletter-mjml/Template_01/template.html"
         },
         {
@@ -40,14 +41,14 @@
             "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/Transactional/transactional.html"
         },
         {
-            "img_src": "./src/img/portfolio/email/shein.png",
+            "img_src": "./src/img/portfolio/email/coinbase.png",
             "img_alt": "Proyecto de email",
-            "img_tag": "Promotional",
-            "title": "Shein",
+            "img_tag": "Transactional",
+            "title": "Coinbase",
             "title_tag": "HTML1 & CSS",
             "description": "Desarrollado desde cero sin la ayuda de frameworks.",
             "button_txt": "Ver E-mail",
-            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/miProyectoSHEIN/shein.html"
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/coinbase.html"
         },
         {
             "img_src": "./src/img/portfolio/email/factory.png",
