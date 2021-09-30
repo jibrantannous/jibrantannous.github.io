@@ -1,30 +1,24 @@
 [
     {
-        "title": "E-mail Developer",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "title": "E-mail Development",
+        "description": "Desarrollo de Emails para cualquier tipo de campaña, ya sea Transaccional, Promocional o Newsletter.",
         "button_txt": "Ver más",
         "button_href": "#",
         "button_target": "_blank"
     },
     {
-        "title": "E-mail Developer",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "title": "Maquetación Web",
+        "description": "Maquetación de sitios web estáticos con HTML y CSS",
         "button_txt": "Ver más",
         "button_href": "#",
         "button_target": "_blank"
     },
     {
-        "title": "E-mail Developer",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
-        "button_txt": "Ver más",
-        "button_href": "#",
-        "button_target": "_blank"
-    },
-    {
-        "title": "E-mail Developer",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem.",
+        "title": "Desarrollo Web",
+        "description": "Construcción de sitios y aplicaciones web dinámicas",
         "button_txt": "Ver más",
         "button_href": "#",
         "button_target": "_blank"
     }
+    
 ]
