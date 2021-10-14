@@ -103,44 +103,34 @@
     ],
     "website": [
         {
-            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_src": "./src/img/portfolio/web/huddle-landing-page.jpg",
             "img_alt": "Proyecto de website",
-            "img_tag": "Tienda digital",
-            "title": "Titulo del proyecto",
-            "title_tag": "Wordpress",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "img_tag": "Landing Pages",
+            "title": "Huddle",
+            "title_tag": "HTML & CSS",
+            "description": "Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.",
             "button_txt": "Ver página web",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/huddle-landing-page/"
         },
         {
-            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_src": "./src/img/portfolio/web/batatabit-landing-page.jpg",
             "img_alt": "Proyecto de website",
-            "img_tag": "Tienda digital",
-            "title": "Titulo del proyecto",
-            "title_tag": "Wordpress",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "img_tag": "Landing Page",
+            "title": "Batata bit",
+            "title_tag": "HTML & CSS",
+            "description": "Visibilizamos todas las tasas de cambio. Traemos información en tiempo real de las casas de cambio y las monedas más importantes del mundo.",
             "button_txt": "Ver página web",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/batata-bit/"
         },
         {
-            "img_src": "./src/img/portfolio/web/website-01.png",
+            "img_src": "./src/img/portfolio/web/crowfunding-landing-page.jpg",
             "img_alt": "Proyecto de website",
-            "img_tag": "Tienda digital",
-            "title": "Titulo del proyecto",
-            "title_tag": "Wordpress",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
+            "img_tag": "Landing Page",
+            "title": "Crowfounding Platform",
+            "title_tag": "HTML, CSS & JS",
+            "description": "Crowfounding platform for finance your business idea and achieve your goals.",
             "button_txt": "Ver página web",
-            "project_href": "#"
-        },
-        {
-            "img_src": "./src/img/portfolio/web/website-01.png",
-            "img_alt": "Proyecto de website",
-            "img_tag": "Tienda digital",
-            "title": "Titulo del proyecto",
-            "title_tag": "Wordpress",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ac elit ut ante auctor accumsan vitae eu sem. Phasellus eleifend malesuada vulputate.",
-            "button_txt": "Ver página web",
-            "project_href": "#"
+            "project_href": "https://jibrantannous.github.io/crowfunding-project/"
         }
     ]
 }

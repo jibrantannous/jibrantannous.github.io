@@ -10,14 +10,14 @@
         "name": "CSS"
     },
     {
-        "img_src": "./src/img/skills-icons/icon-react.png",
-        "img_alt": "Logotipo de REACT",
-        "name": "REACT"
+        "img_src": "./src/img/skills-icons/icon-javascript.png",
+        "img_alt": "Logotipo de JS",
+        "name": "JavasScript"
     },
     {
-        "img_src": "./src/img/skills-icons/icon-npm.png",
-        "img_alt": "Logotipo de NODEJS",
-        "name": "NODEJS"
+        "img_src": "./src/img/skills-icons/icon-photoshop.png",
+        "img_alt": "Logotipo de PS",
+        "name": "Photoshop"
     },
     {
         "img_src": "./src/img/skills-icons/icon-mjml.png",
