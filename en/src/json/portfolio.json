@@ -1,0 +1,136 @@
+{
+    "email": [
+        {
+            "img_src": "./src/img/portfolio/email/shein.png",
+            "img_alt": "Email project",
+            "img_tag": "Promotional",
+            "title": "Shein",
+            "title_tag": "HTML1 & CSS",
+            "description": "Built from scratch without any frameworks.",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/miProyectoSHEIN/shein.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/kayak.png",
+            "img_alt": "Email project",
+            "img_tag": "Promotional",
+            "title": "Kayak",
+            "title_tag": "Foundation",
+            "description": "Built with Foundation for Emails Framework",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/kayak-foundation.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/moderdog.png",
+            "img_alt": "Email project",
+            "img_tag": "Newsletter",
+            "title": "Modern dog",
+            "title_tag": "MJML",
+            "description": "Built with MJML Framework",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/NEWSLETTER/Newsletter-mjml/Template_01/template.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/zalando.png",
+            "img_alt": "Email project",
+            "img_tag": "Transactional",
+            "title": "Zalando-store",
+            "title_tag": "HTML1 & CSS",
+            "description": "Built from scratch without any frameworks.",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/Transactional/transactional.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/coinbase.png",
+            "img_alt": "Email project",
+            "img_tag": "Transactional",
+            "title": "Coinbase",
+            "title_tag": "HTML1 & CSS",
+            "description": "Built from scratch without any frameworks.",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/coinbase.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/factory.png",
+            "img_alt": "Email project",
+            "img_tag": "Promotional",
+            "title": "Factory direct",
+            "title_tag": "MJML",
+            "description": "Built with MJML Framework",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/factorydirect-mjml.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/homage.png",
+            "img_alt": "Email project",
+            "img_tag": "Promotional",
+            "title": "Homage",
+            "title_tag": "Foundation",
+            "description": "Built with Foundation for Emails Framework",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/homage-foundation/index.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/beretun.png",
+            "img_alt": "Email project",
+            "img_tag": "Transactional",
+            "title": "Beretun",
+            "title_tag": "MJML",
+            "description": "Built with MJML Framework",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/TRANSACCIONAL/Order-mjml/Template_01/index.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/hero.png",
+            "img_alt": "Email project",
+            "img_tag": "Promotional",
+            "title": "Apple",
+            "title_tag": "HTML1 & CSS",
+            "description": "Built from scratch without any frameworks.",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/PROMOCIONAL/hero.html"
+        },
+        {
+            "img_src": "./src/img/portfolio/email/platzi.png",
+            "img_alt": "Email project",
+            "img_tag": "Newsletter",
+            "title": "Platzi",
+            "title_tag": "HTML1 & CSS",
+            "description": "Built from scratch without any frameworks.",
+            "button_txt": "See E-mail",
+            "project_href": "https://jibrantannous.github.io/email-projects/NEWSLETTER/newsletter1/newsletter1.html"
+        }
+    ],
+    "website": [
+        {
+            "img_src": "./src/img/portfolio/web/huddle-landing-page.jpg",
+            "img_alt": "Web project",
+            "img_tag": "Landing Pages",
+            "title": "Huddle",
+            "title_tag": "HTML & CSS",
+            "description": "Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.",
+            "button_txt": "See Website",
+            "project_href": "https://jibrantannous.github.io/huddle-landing-page/"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/batatabit-landing-page.jpg",
+            "img_alt": "Web project",
+            "img_tag": "Landing Page",
+            "title": "Batata bit",
+            "title_tag": "HTML & CSS",
+            "description": "We display all the exchange rates. We bring real time information of the most important exchange houses and currencies in the world.",
+            "button_txt": "See Website",
+            "project_href": "https://jibrantannous.github.io/batata-bit/"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/crowfunding-landing-page.jpg",
+            "img_alt": "Web project",
+            "img_tag": "Landing Page",
+            "title": "Crowfounding Platform",
+            "title_tag": "HTML, CSS & JS",
+            "description": "Crowfounding platform to finance your business idea and achieve your goals.",
+            "button_txt": "See Website",
+            "project_href": "https://jibrantannous.github.io/crowfunding-project/"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "img_src": "./src/img/skills-icons/icon-html.png",
+        "img_alt": "Logotipo de HTML",
+        "name": "HTML"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-css.png",
+        "img_alt": "Logotipo de CSS",
+        "name": "CSS"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-javascript.png",
+        "img_alt": "Logotipo de JS",
+        "name": "JavaScript"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-photoshop.png",
+        "img_alt": "Logotipo de PS",
+        "name": "Photoshop"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-mjml.png",
+        "img_alt": "Logotipo de MJML",
+        "name": "MJML"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-foundation.png",
+        "img_alt": "Logotipo de Foundation",
+        "name": "Foundation"
+    }
+]
