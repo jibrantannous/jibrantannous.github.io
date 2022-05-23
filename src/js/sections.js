@@ -51,14 +51,15 @@ const printPortfolio = async () => {
             </div>
         `
     }
-
-    data.email.forEach(element => {
+    
+    data.website.forEach(element => {
         portfolioBox[0].innerHTML += html(element);
     });
 
-    data.website.forEach(element => {
+    data.email.forEach(element => {
         portfolioBox[1].innerHTML += html(element);
     });
+
 
     // INITIALIZE CAROUSEL
     $('.portfolio__box').owlCarousel({

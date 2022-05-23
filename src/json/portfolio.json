@@ -103,6 +103,56 @@
     ],
     "website": [
         {
+            "img_src": "./src/img/portfolio/web/rest-countries-api.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "React App",
+            "title": "Countries API",
+            "title_tag": "React js",
+            "description": "En esta App puedes visualizar información de cada país, filtrar por region o por nombre consumiendo la REST Countries API. Incluye Light/Dark mode.",
+            "button_txt": "Ver página web",
+            "project_href": "https://jibrantannous.github.io/rest-countries-api/"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/heroes-marvel-dc.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "React App",
+            "title": "Heroes App",
+            "title_tag": "React js",
+            "description": "Aplicación de heroes Marvel y DC. Tiene diferentes vistas incluyendo una vista individual de cada heroe y una vista para filtrar.",
+            "button_txt": "Ver página web",
+            "project_href": "https://jibrantannous.github.io/react-heroes-app/"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/TODO-App.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "React App",
+            "title": "To do App",
+            "title_tag": "React js",
+            "description": "Aplicación de lista de tareas en donde puedes agregar, marcar completadas y eliminar tareas. Implementada con useReducer y local storage.",
+            "button_txt": "Ver página web",
+            "project_href": "https://jibrantannous.github.io/react-Todo-app/"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/yard-sale.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "React App",
+            "title": "Ecommerce Yard Sale",
+            "title_tag": "React js",
+            "description": "Aplicación del curso de React práctico de Platzi. Simulamos un ecommerce con la lógica de carrito de compras. Usamos Context API para manejar estado global.",
+            "button_txt": "Ver página web",
+            "project_href": "https://jibrantannous.github.io/yard-sale/"
+        },
+        {
+            "img_src": "./src/img/portfolio/web/gif-expert.png",
+            "img_alt": "Proyecto de website",
+            "img_tag": "React App",
+            "title": "Giphy App",
+            "title_tag": "React js",
+            "description": "Aplicación que consume la API de giphy.com, usamos react básico manejando el estado con useState y compartiendo el estado a través de props.",
+            "button_txt": "Ver página web",
+            "project_href": "https://jibrantannous.github.io/react-gif-expert-app/"
+        },
+        {
             "img_src": "./src/img/portfolio/web/huddle-landing-page.jpg",
             "img_alt": "Proyecto de website",
             "img_tag": "Landing Pages",
@@ -118,7 +168,7 @@
             "img_tag": "Landing Page",
             "title": "Batata bit",
             "title_tag": "HTML & CSS",
-            "description": "Visibilizamos todas las tasas de cambio. Traemos información en tiempo real de las casas de cambio y las monedas más importantes del mundo.",
+            "description": "Visibilizamos todas las tasas de cambio. Traemos información en tiempo real de las casas de cambio y las monedas más importantes del mundo. <br>",
             "button_txt": "Ver página web",
             "project_href": "https://jibrantannous.github.io/batata-bit/"
         },
@@ -128,9 +178,10 @@
             "img_tag": "Landing Page",
             "title": "Crowfounding Platform",
             "title_tag": "HTML, CSS & JS",
-            "description": "Plataforma de crowfounding para financiar tu idea de negocio y alcanzar tus objetivos.",
+            "description": "Plataforma de crowfounding para financiar tu idea de negocio y alcanzar tus objetivos. Realizada con Vanilla Js. <br><br>",
             "button_txt": "Ver página web",
             "project_href": "https://jibrantannous.github.io/crowfunding-project/"
         }
+        
     ]
 }

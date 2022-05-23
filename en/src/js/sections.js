@@ -53,11 +53,11 @@ const printPortfolio = async () => {
     }
 
     data.email.forEach(element => {
-        portfolioBox[0].innerHTML += html(element);
+        portfolioBox[1].innerHTML += html(element);
     });
 
     data.website.forEach(element => {
-        portfolioBox[1].innerHTML += html(element);
+        portfolioBox[0].innerHTML += html(element);
     });
 
     // INITIALIZE CAROUSEL

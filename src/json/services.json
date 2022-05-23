@@ -1,7 +1,7 @@
 [
     {
-        "title": "E-mail Development",
-        "description": "Emails para campañas Transaccionales, Promocionales o Newsletter.",
+        "title": "Desarrollo Web",
+        "description": "Construcción de sitios y aplicaciones web dinámicas.",
         "button_txt": "Ver más",
         "button_href": "#portfolio",
         "button_target": "_self"
@@ -14,11 +14,10 @@
         "button_target": "_self"
     },
     {
-        "title": "Desarrollo Web",
-        "description": "Construcción de sitios y aplicaciones web dinámicas.",
+        "title": "E-mail Development",
+        "description": "Maquetación de emails para campañas Transaccionales, Promocionales o Newsletter.",
         "button_txt": "Ver más",
         "button_href": "#portfolio",
         "button_target": "_self"
     }
-    
 ]

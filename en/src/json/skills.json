@@ -1,5 +1,25 @@
 [
     {
+        "img_src": "./src/img/skills-icons/icon-react.png",
+        "img_alt": "Logotipo de HTML",
+        "name": "React"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-javascript.png",
+        "img_alt": "Logotipo de JS",
+        "name": "JavaScript"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-redux.png",
+        "img_alt": "Logotipo de Redux",
+        "name": "Redux"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-router.png",
+        "img_alt": "Logotipo de Router",
+        "name": "Router"
+    },
+    {
         "img_src": "./src/img/skills-icons/icon-html.png",
         "img_alt": "Logotipo de HTML",
         "name": "HTML"
@@ -10,9 +30,14 @@
         "name": "CSS"
     },
     {
-        "img_src": "./src/img/skills-icons/icon-javascript.png",
-        "img_alt": "Logotipo de JS",
-        "name": "JavaScript"
+        "img_src": "./src/img/skills-icons/icon-sass.png",
+        "img_alt": "Logotipo de SASS",
+        "name": "SASS"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-tailwind.png",
+        "img_alt": "Logotipo de Tailwind",
+        "name": "Tailwind"
     },
     {
         "img_src": "./src/img/skills-icons/icon-photoshop.png",
@@ -28,5 +53,10 @@
         "img_src": "./src/img/skills-icons/icon-foundation.png",
         "img_alt": "Logotipo de Foundation",
         "name": "Foundation"
+    },
+    {
+        "img_src": "./src/img/skills-icons/icon-git.png",
+        "img_alt": "Logotipo de Git",
+        "name": "Git"
     }
 ]

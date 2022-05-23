@@ -1,7 +1,7 @@
 [
     {
-        "title": "E-mail Development",
-        "description": "Email Development for Transactional, Promotional or Newsletter Campaigns",
+        "title": "Web development",
+        "description": "Building dynamic web sites and applications.",
         "button_txt": "See more",
         "button_href": "#portfolio",
         "button_target": "_self"
@@ -14,8 +14,8 @@
         "button_target": "_self"
     },
     {
-        "title": "Web development",
-        "description": "Building dynamic web sites and applications.",
+        "title": "E-mail Development",
+        "description": "Email Development for Transactional, Promotional or Newsletter Campaigns",
         "button_txt": "See more",
         "button_href": "#portfolio",
         "button_target": "_self"
