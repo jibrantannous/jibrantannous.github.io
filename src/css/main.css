@@ -557,12 +557,16 @@ select {
 }
 
 .about__subTitle {
-  font-weight: 500;
+  /* font-weight: 500; */
+  line-height: 24px;
+  text-align: justify;
+  color: var(--WhiteColor-Dark);
   margin-bottom: 15px;
+  font-size: 1.5rem;
 }
 
 .about__description {
-  line-height: 28px;
+  line-height: 24px;
   margin-bottom: 30px;
   text-align: justify;
   color: var(--WhiteColor-Dark);
@@ -1203,9 +1207,9 @@ select {
     max-width: 650px;
   }
 
-  .about__subTitle {
+  /* .about__subTitle {
     text-align: center;
-  }
+  } */
 }
 
 @media only screen and (max-width: 550px) {
